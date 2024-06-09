@@ -7,8 +7,8 @@ The CNN model was constructed using the Keras library, a high-level neural netwo
 **Results**
 The model was trained over 10 epochs, and the performance metrics for each epoch are as follows:
 
-|Epoch|	Training| Accuracy|	Training| Loss|	Validation| Accuracy|	Validation Loss|
-|-----|--------|--------|----------|----|-------|---------|----------|
+|Epoch|	Training Accuracy|	Training Loss|	Validation Accuracy|	Validation Loss|
+|-----|----------------|--------------|----------------|----------|
 1|	0.7422|	0.5048|	0.8713|	0.3604|
 2|	0.8783|	0.2870|	0.8515|	0.3423|
 3|	0.9129|	0.2170|	0.8911|	0.3159|
